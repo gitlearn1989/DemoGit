@@ -13,7 +13,7 @@ public class Variables {
 		
 		// byte, short, int,long, Float, Double ,char boolean
 		
-		byte mark =127;
+		byte markS =127;
 		short litres=32767;
 		int mark1=2147483647;
 		
